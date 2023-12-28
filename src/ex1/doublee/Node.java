@@ -1,4 +1,4 @@
-package ex1.d;
+package ex1.doublee;
 
 class Node {
     int data;
